@@ -6,3 +6,5 @@ This is to test commit
 
 
 Checking active flag of installation
+
+Commit for Pala's test
