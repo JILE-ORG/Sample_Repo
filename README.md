@@ -10,3 +10,5 @@ Checking active flag of installation
 Commit for Pala's test
 
 testing for Issue commit
+
+testing US1 and IS1 at same time 
